@@ -18,9 +18,9 @@ export default function Hero() {
                         <p className="text-2xl text-[#7c7755] mb-4">Halo, Saya</p>
                         <h1 className="text-6xl lg:text-7xl font-serif font-bold text-[#2d2d2d] leading-tight">Abi Ibnu <br />Maliki</h1>
 
-                        <h2 className="text-3xl text-[#626244] font-semibold mt-6">Web3 Developer, Fullstack Developer & Crypto Enthusiast</h2>
+                        <h2 className="text-3xl text-[#626244] font-semibold mt-6">Web3 Developer • Full-Stack Developer • Blockchain Enthusiast</h2>
                         <p className="mt-8 text-gray-600 leading-8 max-w-xl">
-                            Build your Web with Blockchain Integration, Responsive, adn user friendly.  Web with future tech, clean code, and elegant design.
+                            Building modern, scalable, and responsive web applications with seamless blockchain integration, clean architecture, and exceptional user experiences.
                         </p>
                 { /* Button */ }
                     <div className="flex gap-5 mt-10">
