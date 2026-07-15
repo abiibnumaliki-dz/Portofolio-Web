@@ -13,7 +13,7 @@ import {
 
 export default function About() {
     return(
-        <section id="about" className="bg-[#f7f1e8] py-24">
+        <section id="About" className="bg-[#f7f1e8] py-24">
             <div className="max-w-7xl mx-auto px-6">
                 <div className="grid lg:grid-cols-2 border border-[#e8ddcc]">
                     {/* Left */}

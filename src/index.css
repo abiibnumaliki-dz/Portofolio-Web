@@ -1,12 +1,13 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 html {
     scroll-behavior: smooth;
 }
 
 body {
     margin: 0;
-    background: #F7F1E8;
 }
 
 button {
