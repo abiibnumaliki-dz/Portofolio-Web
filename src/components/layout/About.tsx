@@ -4,6 +4,7 @@ import {
     HiArrowRight,
 } from "react-icons/hi"
 
+
 import {
     HiOutlineAcademicCap
 }from "react-icons/hi2"
@@ -28,7 +29,26 @@ export default function About() {
                         <p className="mt-5 leading-8 text-gray-600 dark:text-gray-300   ">With a strong commitment to continuous learning,
                             I explore emerging technologies to create seamless user experiences while delivering high-quality,
                             maintainable software.</p>
-                        <button className="group mt-10 w-fit bg-[#626244] dark:bg-[#7C7755] text-white text-xl px-8 py-4 rounded-xl flex items-center gap-3 transition-all duration-300 ease-in-out hover:bg-[#505036] dark:hover:bg-[#8F8866] hover:-translate-y-1 hover:shadow-xl active:scale-95">
+                        <button className="group 
+                                          mt-10 
+                                          w-fit 
+                                          bg-[#626244] 
+                                          dark:bg-[#7C7755]
+                                          text-white 
+                                          text-xl 
+                                          px-8 py-4 
+                                          rounded-xl 
+                                          flex 
+                                          items-center 
+                                          gap-3 
+                                          transition-all 
+                                          duration-300 
+                                          ease-in-out 
+                                          hover:bg-[#505036] 
+                                          dark:hover:bg-[#8F8866] 
+                                          hover:-translate-y-1 
+                                          hover:shadow-xl 
+                                          active:scale-95">
                         More About Me <HiArrowRight className="text-xl transition-transform duration-300 group-hover:translate-x-2" /></button>
                     </div>
                    {/* Right */}

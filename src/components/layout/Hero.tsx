@@ -144,8 +144,8 @@ export default function Hero() {
                 alt="Profile"
                 className="
                   relative
-                  w-[430px]
-                  h-[550px]
+                  w-107.5
+                  h-137.5
                   object-cover
                   rounded-t-[220px]
                   rounded-b-xl
